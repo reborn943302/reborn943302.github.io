@@ -1,0 +1,5 @@
+@each $pos in $position{
+    .position-#{$pos}{
+      position: $pos;
+    }
+  }

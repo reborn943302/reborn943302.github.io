@@ -1,0 +1,16 @@
+*{
+font-family: "Microsoft Jhenghei";
+font-size: 14px;
+}
+.gotop{
+    width: 40px;
+    height: 40px;
+    background-color: #7c5500;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 40px;
+}
+#intro .wrapper {
+    width: 960px;
+  }
